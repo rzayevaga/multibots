@@ -1,0 +1,30 @@
+{   
+    "bot1": {
+        "source": "https://github.com/<GitHub Username>/<repo1>.git",
+        "env": {
+            "BOT_TOKEN": ""
+            "API_ID": ""
+            "API_HASH": ""
+        
+        },
+        "run": ""
+    },
+    "bot2": {
+        "source": "https://github.com/<GitHub Username>/<repo2>.git",
+        "env": {
+            "BOT_TOKEN": ""
+            "API_ID": ""
+            "API_HASH": ""
+        },
+        "run": ""
+    },
+    "bot3": {
+        "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
+        "env": {
+            "BOT_TOKEN": ""
+            "API_ID": ""
+            "API_HASH": ""
+        },
+        "run": ""
+    }
+}
