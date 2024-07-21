@@ -26,7 +26,7 @@ _Daha az resurslu Telegram Botlarını pulsuz yerləşdirməli olduğunuz proble
  
  ⎋  **Şəxsi Repo:** siz həmçinin tokenlərin köməyi ilə şəxsi depoları klonlaya bilərsiniz.  (aşağıda [məsələn](#Nümunə) baxın)
 
- ⎋  **Web sayt'a yerləşdirmək:** tövsiyə saytlar - [render](https://render.com/), [scalingo](https:  //scalingo.com/) və s.
+ ⎋  **Web sayt'a yerləşdirmək:** tövsiyə saytlar - [render](https://render.com/), [scalingo](https://scalingo.com/) və s.
 
 ---
 
