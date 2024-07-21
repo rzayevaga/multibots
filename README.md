@@ -19,10 +19,14 @@ _Daha az resurslu Telegram Botlarını pulsuz yerləşdirməli olduğunuz proble
 
 
  ⎋  **Bot Sayı:** siz sadəcə daha çox obyekt əlavə etməklə bunu istənilən sayda botlara genişləndirə bilərsiniz (baxın [məsələn](#Nümunə) aşağıda), baxmayaraq ki, 500 mb yaddaş üçün 5 bot'u keçməməyi tövsiyə edirəm.
- ⎋  **Configlər:**, hətta eyni adlı müxtəlif botlar üçün müxtəlif config dəyərləri təyin edə bilərsiniz.
+
+ ⎋  **Configlər:** hətta eyni adlı müxtəlif botlar üçün müxtəlif config dəyərləri təyin edə bilərsiniz.
+
  ⎋  **Nəzarət:** siz həmçinin həmin bot üçün icranın başladığı yerdən skript faylını təyin edə bilərsiniz.
+ 
  ⎋  **Şəxsi Repo:** siz həmçinin tokenlərin köməyi ilə şəxsi depoları klonlaya bilərsiniz.  (aşağıda [məsələn](#Nümunə) baxın)
- ⎋  **Web sayt yerləşdirmək:** tövsiyə saytlar - [render](https://render.com/), [scalingo](https:  //scalingo.com/) və s.
+
+ ⎋  **Web sayt'a yerləşdirmək:** tövsiyə saytlar - [render](https://render.com/), [scalingo](https:  //scalingo.com/) və s.
 
 ---
 
