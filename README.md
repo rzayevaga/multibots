@@ -50,7 +50,7 @@ _Daha az resurslu Telegram Botlarını pulsuz yerləşdirməli olduğunuz proble
             "API_ID": "api_id@my-telegram-org/apps"
             "API_HASH": "api_hash@my-telegram-org/apps"
         },
-        "run": "bot3.py"
+        "run": "bot2.py"
     },
     "bot3": {
         "source": "https://github.com:ghp_token@github.com/rzayevaga/private-bot.git",
