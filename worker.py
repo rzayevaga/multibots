@@ -27,7 +27,7 @@ for bot_name, bot_config in bots.items():
     # subprocess.run(['pip', 'install', '--no-cache-dir', '-r', requirements_file], check=True)
     
     # Run the bot
-    print(f'Starting {bot_name} bot with {bot_file}')
+    print(f'{bot_name} bot’u {bot_file} ilə başlayır')
     p = subprocess.Popen(['python3', bot_file], cwd=bot_dir, env=os.environ)
     bot_processes.append(p)
 
