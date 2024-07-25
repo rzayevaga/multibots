@@ -1,7 +1,7 @@
 import flask
-Rzayev = flask.Flask(__name__)
+app = flask.Flask(__name__)
 
-@Rzayev.route('/')
+@app.route('/')
 def home():
     return """
 <center> 
